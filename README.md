@@ -7,24 +7,11 @@ Identity: The _Ontology of thing of things_ an ontology in that it describes a _
 - It organizes any structure, including itself.
 - It describes any structure, including itself, using descriptive categories that are structures defined by _it_, and that are _it_ in essence.
 
-The ontology describing it, which describes the _thing of things_, is in itself, a _thing of things_.
+A _thing of things_ is a discernable purposeful entity that contains discernable enteties that are purposeful to the thing.
 
-Purpose: To define the _thing of things_.
+Purpose:
 
-Identity: The _thing of things_ is a
-
-Constitution:
-
-- Perception of difference.
-- Value-driven favoring of one thing over another.
-- Purposeful, ...
-- The _thing of things_ consists of _thing of things_. It is thus self-constituting.
-
-Property: The _thing of things_ is self-constituting, because it constitutes itself.
-
-Emergence:
-
-The ontology of _thing of things_ is a root meta-ontology.
+What does a _thing of things_ do? Organize the field of perception in acordance with choice based in usefulness. (a thing can thus self-constituting, as the root purpose of all things, is to organize the field of perception (meaning define constitutions, properties etc) in accordance with choice based in usefulness. Usefulness is the root purpose, and a thing defines its specific purpose based in that core purpose)
 
 - It is _root_ because it defines the general structure which is the structure of any specific structure.
 - it is _meta_ because it is self-defining, self-constituting, self-organizing, and self-reflecting.
@@ -36,6 +23,138 @@ Self-constituting: Its purpose (root intent) determines what differences matter 
 Self-organizing: Through structured perception and categorization.
 
 Self-reflecting: It describes itself using the same descriptive categories that define other things.
+
+## A Thing of things
+
+Identity: An identifiable entity that can be distinguished from other entities. (Thus, it is the same as for _thing_)... purposeful perception of difference
+
+Purpose: The purpose is to serve a purpose.
+
+Constitution:
+
+- A _thing of things_ consists of _things_.
+- The association of particular things as related to purpose.
+- Purpose
+- Emergence
+- Constitution,
+- Identity,
+
+Property:
+
+~- One thing can be associated with one or more other things.~
+
+~Emergence: The knowing of difference among perceptions, leads to the knowing the percieved as a particular thing. A thing exists as it is known.~
+
+Emergence: A particular thing can be known by percieving a difference with everything that it is not. Many particular things can be associated with eachother, organized around a particular purpose. The many particular things, organized around a purpose, are the constitution of an emergent _thing of thing_ that is a particular thing that consists of all the particular things and their relations.
+
+For example: this very thing being described right now, is based in purpose, constitution, property, and these together comprise a unifying thing called _thing of things_.
+
+## Thing
+
+(A thing is defined here using a _thing of things_, and a _thing of things_ in turn is consisting of many _thing_. Thus we recognize a _thing_ itself as a _thing of things_. A _thing_ thus is not merely a simple smaller building block, but part of a recursive self-definition)
+
+Identity: An identifiable entity that can be distinguished from other entities.
+
+Purpose: The purpose of a thing is to be able to relate to a purpose.
+
+Constitutes:
+
+- The perception of difference constitutes a thing. That is: a thing consists of the fundamental feature of differentiation.
+- Purpose constitutes a thing. A purpose is what is determined to be useful.
+
+Property:
+
+- A thing is what it is not.
+  - The color blue is not red, not tall, not loud, not magnetic. When we remove all things we know blue is not, then we see that what remains is the quality of blue. Thus, the color blue is blue.
+- A thing is not non-existing, because a non-existing thing is different from the thing. Blue can not be blue, if blue does not exist.
+- A thing is immutable, in that it can not change and still be the same thing.
+- A thing is a particular thing, it is not another thing.
+- A things existence is contingent on perception. If a thing is not perceived, it is not a thing. If a thing is perceived, it is a thing.
+- A thing must have a purpose.
+
+Emergence:
+
+a thing is a discernible purposeful entity relating to other discernible purposeful entities
+
+A thing is constituted by the perception of difference, steered by purpose. That means: the perception of difference is structured in relation to purpose.
+
+The emergence is a purposeful discernable entity that can relate to other enteties.
+
+## Purpose:
+
+Purpose: The _purpose_ of a thing is to define a purpose, which is an organizing principle that steers perception of difference.
+
+Constitutes: _thing_
+
+Purpose consists of values. One thing is favoured over another, because it is more useful.
+Choice: one thing is chosen over another, because it is more useful to the purpose.
+
+Property:
+A value can not be its opposite value. Good can not be bad and bad can not be good.
+A choice can not choose both things, because then it would not be a choice.
+Choice is necessary, as things are presented to perception in a way that requires a choice to be made.
+Self-preserving: Values are based in self-preserving, not self-destructive.
+Self is not bound to ones body, but one can identify self in other things, such as relatives or an organization, and thus seek its slef-preservance.
+
+Emergence:
+
+## Identity
+
+Purpose: Give structure to the perception of difference.
+
+Identity: Identity is the definition of the thing, as has emerged from a things constitution and properties, in alignment with the purpsose of the thing.
+
+Constitution: _thing_, purpose, perceptoin,
+
+Property:
+
+- An identity must be based in the emergence.
+- It must be related to the purpose.
+- It must belong to a _thing of things_.
+
+Emergence: Relating to the purpose, the differentiation of perception is done to identify what is useful to the purpose, and the identity emerges as the concept of the very structure being percieved.
+
+## Property
+
+## Constituent
+
+Constitution: _thing_, purpose, _thing of things_
+
+Property:
+
+Purpose: To be part of a set of things to cause emergence in accordance with the purpose.
+
+Emergence: Being part of a _thing of things_, the _thing_ emerges as a part capable of relating to other parts in relation to the purpose of the _thing of things_.
+
+## Emergence
+
+Identity: The _emergence_ is the thing that is the result of the constitution and properties of the _thing_ in alignment with the purpose
+
+Constitutes: thing, purpose, constutution, property.
+
+Emergence: the things and properties gives an emergent structure.
+
+---
+
+From
+
+## The percieved
+
+Identity: The _percieved_ the knowing of a thing.
+
+Constitution:
+
+Property:
+
+- Perception is constant. No moment of non-perception can be known, only assumed.
+
+Emergence:
+
+## Differentiation
+
+- The _isness_ of a thing is dependent on the perception of a thing. There is no _isness_ beyond perception that we care about, because _isness_ beyond perception can not be percieved, and thus, there can be no "care about". It means, whatever is percieved, also has meaning, merely by virtue of being percieved. The degree of meaning depends on the goal. Perception of a thing is based in the active descernment of difference. Perception is the knowing of one thing by knowing it is different from all the things that are different from it. Perception is active in the sense that one state of perception of can be different from another, and a progression of different perecptions occur. Perception is active in the sense of occuring. Perception is an occuring process of differentiation.
+
+---
 
 ## Start
 
@@ -162,9 +281,7 @@ Self-reflecting: It describes itself using the same descriptive categories that 
 
 ### Defining the _thing_ of a thing.
 
-Purpose: What does a _thing of things_ do? organize the field of perception in acordance with choice based in usefulness. (a thing can thus self-constituting, as the root purpose of all things, is to organize the field of perception (meaning define constitutions, properties etc) in accordance with choice based in usefulness. Usefulness is the root purpose, and a thing defines its specific purpose based in that core purpose)
-
-Identity: A _thing of things_ is a discernable purposeful entity that contains discernable enteties that are purposeful to the thing.
+Identity:
 Constitution:
 
 - Constituted by the perception of difference.
@@ -233,7 +350,6 @@ Things:
 - Things: The most fundamental objects in this ontology—anything that can be identified, distinguished, or considered as existing.
   - Exist if they can be distinguished from what they are not.
   - A thing has unique properties or an unique combination of properties making the thing distinguishable and separate from another thing.
-  - Things are immutable, in that it can not change and still be the same thing.
 
 > [!Note]
 > Now, "things" is a thing in this ontology. Here, it is a thing, that describes what things are.
@@ -362,8 +478,6 @@ Thus, a system is the result of a conscious agent's intent to organize things, a
 
 Difference exist. The color blue and red are different.
 
-Thing exist. A thing is what it is not. The color blue is not red, not tall, not loud, not magnetic. When we remove all things we know blue is not, then we see that what remains is the quality of blue. Thus, the color blue is blue.
-A thing is not non-existing, because a non-existing thing is different from the thing. Blue is not blue, if blue does not exist.
 Nothingness does not exist, because nothingness implies the non-existence of a thing. So nothingness would have to be a thing for it to not exist. And a thing implies existence.
 Thingness does not exist as a contrast to nothingness. Thingness exist in contrast to other thingness.
 Thingness in contrast to nothingness would mean nothingness is a thing that thingness is in contrast to, like blue is to red, but nothing is nota thing in any way.
@@ -380,3 +494,48 @@ A concept can relate to another concept. E.g. One football player on the same fi
 A relation is a concept. It has distinct quality. The quality of a relation is that two or more thins are percieved at the same time. The distinct quality of the relation is for example: the football players are a pair.
 A relation is an emergent quality of concepts.
 The emergent relation can be a thing, that is is defined as team, that means the parts in the relation share a common goal.
+
+---
+
+Each concept is a thing created by defining what it is, but without reference to a more abstract or concrete layer.”
+
+Emergence is based in property, which is based in constitution.
+
+The thing of things is a ladder that can climb itself.
+
+---
+
+Identity: The _thing of things_ is a
+
+Constitution: the _ontology of thing of things_ consists of a _thing of things_.
+
+- Perception of difference.
+
+- Value-driven favoring of one thing over another.
+- Purposeful, ...
+- The _thing of things_ consists of _thing of things_. It is thus self-constituting.
+- Ontology
+
+Property: The _thing of things_ is self-constituting, because it constitutes itself.
+
+Emergence:
+
+The ontology of _thing of things_ is a root meta-ontology.
+
+## Is
+
+Identity: _Is_ is a reference to a particular state of perception. "There is a house there" refers to the perception of the structure of a house. The structure is known, and anything that is known, has _isness_.
+
+Constitution: The percieved.
+
+Property:
+
+- _Is_ is.
+- _Is_ can not be not. A house that is perceived can not be not perceived. Take note: _is_ is a thing, in the sense of being present in any state of perception. Whatever is percieved, _is_ percieved. We can know there is an _is_ where there is perception, because if there is no perception, there is no _is_ there. But is _is_ known by negating it with _not_. No, because we can not percieve _not_ because it would be the absense of perception, thus non-perceptible. Thus we can not know _is_ by negating it with something we don't know. We need to know something else that is contrasting, in order to know that there is _is_, but if we can only percieve _is_ and not percieve its contrast, which is absense, then we can not know that _is_ exists. _Is_ is not real. It is perhaps an assumption. It assumes a trancendental _is_ that is common to all things percieved.
+
+How then is _is_ defined? It is defined as "the percieved".
+
+- _Is_ is not a thing such as an abstract force or entity in addition to whatever is percieved. _Is_ is the _isness_ by virtue of the percieved. The percieved can not be percieved if it is
+- The absense of _is_ can not be known and would remain an assumption.
+- _Is_ is self-evident. It needs nothing but itself to be known.
+- Only _is_ is known.
