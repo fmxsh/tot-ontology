@@ -1,3 +1,39 @@
+Copied from phone 
+
+
+Purpose: the purpose of this thing is to 
+To describe the composition of all things. 
+
+Identity: 
+ based in the constitution, the properties and the relations between mong them. 
+
+... structures and their relations, as seen in the differentiated perception, when the differentiated perception is organized around the things purpose. The identity is the explicit statement of the emergence as it's identity. 
+The identity is the statement based in purpose and emergence. 
+
+Constitution: the thing is constituted by differentiated perception. 
+
+Properties: 
+It's a concept not a representation. 
+A thing has these properties:
+Identity - The identity of a thing is its emergence as aligned with the purpose.
+
+
+Purpose - the purpose defines the things purpose. the purpose of a thing is to fulfill its self-defined purpose. 
+
+Constitution - the thing has parts that supports the emergence that in turn aligns with the purpose. 
+
+Properties: properties in alignment with emergence, in turn in alignment with purpose. 
+
+Emergence - The properties are defined to organize the differentiated perception. They are defined based in the purpose which is an organizing principle. 
+
+... 
+
+Emergence:
+
+
+
+
+
 # Ontology of thing of things
 
 Identity: The _Ontology of thing of things_ an ontology in that it describes a _thing of things_. A _thing of things_ is a root meta-structure: that is self-defining, self-constituting, self-organizing, and self-reflecting.
