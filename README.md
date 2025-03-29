@@ -7,7 +7,13 @@
 
 A _thing of things_ is the general framing possible to apply to perceive any _thing_ by, and as such, serves to increase perceptual clarity of any given thing.
 
+The _Thing of Things_ is an discernable perceptual structure with intrinsic purpose. It is self-structuring itself around its purpose by arranging
+
+The _Thing of Things_ has the goal of being fully self-structuring and self-defining. This goal serves its purpose: to enable the complete perceptual organization of any thing by providing a universal, ontologically sound framing.
+
 ## Purpose
+
+(it's purpose is to be self-structuring,
 
 (describes the purpose of this thing, namely the _thing of things_)
 
@@ -26,6 +32,16 @@ Contrast.
 ## Properties
 
 (These are the properties of any thing, and thus also of the _thing of things_, as seen in that the _thing of things_ itself describes itself using these properties, thus is self-referential, self-organizing)
+
+### Organizing principle
+
+A _thing of things_ must have an internalized purpose (it must have its purpose defined within itself).
+
+All things in _thing of things_ must be consistent with an organizing principle (the purpose).
+
+The organizing principle (the purpose) defines the boundaries, in such a way that whatever is not consistent with the purpose, is outside the boundary of the thing, and thus is not part of the thing.
+
+Internal coherence/consistency is established by how each part enacts and supports the purpose.
 
 ### Structural properties
 
@@ -117,37 +133,49 @@ best possible form, because it captures all aspects of the thing.
 
 ## Emergence
 
-### Self-aserting
+### Self-emergence
+
+Self-emergence is the unifying emergent principle by which a _thing of things_ achieves its self-hood, meaning it can itself enact whatever is required of it, like being self-organizing, self-constituting, self-defining etc. It is thus not relying on external instruction. Its recursive nature implies it never, at any point, was relying on external instruction. It is thus not a system described by something outside it. It is self-describing. It describes any thing, including itself, using itself.
+
+At the core, we have the recognition of difference in perception. How perception is differentiated (meaning where we percieve the boundaries of a thing) is defined by its purpose. One may be surprised many more expensive speakers do not come with cables or even amplifiers. That is because in the domain of high end speakers another ontology presides, where the concept of a speaker is limited to the actual speaker unit, whereas in the budget market, a speaker is understood as "that which makes sound" which then implies a whole set of common things such as sound cables and power adapters. A thing here, thus is understood and delineated by an describable idea. If you ask the dealer in a high end shop about the cables, he would _describe_ the _idea_ that the speaker unit is _just the speakers and not the sound cables_. In a _Thing of Things_, the purpose is the highest delimiting factor, which is also contained within the thing, and thus the thing contains its own boundaries. (It is thus self-delimiting).
+
+The _Thing of Things_ contains its own boundary as a reflection of its purpose. Embeded in the thing itself, is the purpose which is the highest structural contraint.
+
+It is the act of differentiating perception to isolate _purpose_ as a property in a thing (rather than putting the purpose outside the thing), that makes the purpose give rise to self-emergence, in the sense that any other thing within the thing must align it-_self_ with the purpose, thus, the thing becomes self-enacting.
+
+It contains the conditions for its own organization.
+
+#### Self-aserting
 
 (Perhaps the most impoprant emergent feature of a thing): All properties are aligned to support the purpose. This is implicit, as the purpose is integral, and a purpose can not be integral to a thing that does not honor it. The boundary of a thing (how a thing is differentiated from other things) is based in the purpose. Things that do not align with the purpose, are simply outside the thing, not part of the thing. Remember, a thing is self-evident. It does not need a description on a paper, like a blueprint. It itself is its own description. It will be self-evident if a thing relates to the purpose or not. If we describe the thing, we can do conceptual errors of putting non-purposeful aspects in the description, but that is just a bad description, and will simply not have effect in reality. The property purpose, of _thing of things_ defines the root-purpose. The purpose of a purpose is to be useful. Here, the validity of _purpose_ is measured against perceived usefulness. The person who is perceiving, is also experiencing the effects of a thing, and can compare that with his or her own idea of what is desirable, thus stating what is useful or not, and thereby construct a useful purpose that comes to define a thing. The thing then must align with this purpose.
 
-### Self-defining
+#### Self-defining
 
 It names and identifies its own role and composition.
 
-### Self-constituting
+#### Self-constituting
 
 Its purpose (root intent) determines what differences matter — thus, it creates the parts it needs to fulfill that intent.
 
 Chooses its own parts depending on its purpose.
 
-### Self-organizing
+#### Self-organizing
 
 Or is it self-organizing? Self-organizing: Through structured perception and categorization.
 
 The thing's purpose structures differentiation, and thus the thing is self-organizing.
 
-### Self-reflecting
+#### Self-reflecting
 
 It describes itself using the same descriptive categories that define other things.
 
 It applies to itself what it applies to all other things.
 
-### Self-fulfilling
+#### Self-fulfilling
 
 By defining its purpose, it generates the means to fulfill it.
 
-### Sum
+#### Sum
 
 For any thing to be perceived, there needs to be perception of difference. Based in percieving difference, we recognize a thing, any thing, has properties, purpose, identity, etc. Thus, several dimensions of a thing are outlined. This differentiation among aspects of a thing is possible, because the fundamental constitution of any object, is differentiation. By differentiating things of perception, a set of aspects, or dimensions, or properties, of a thing can be perceived.
 
