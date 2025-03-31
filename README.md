@@ -45,9 +45,17 @@ Internal coherence/consistency is established by how each part enacts and suppor
 
 ### Structural properties
 
+All things are
+
 #### Identity
 
-Identity: A thing's identity is what the thing is not. Identity is a constitution of the rest or is there any reason for this category.
+Identity is the emergence of all the properties and constitution of a thing.
+
+What the thing is in its self-contained totality. The structure emerging from the constitution, properties and emergences of the thing.
+
+Identity aligns with purpose, but does not contain the purpose. Thus, if the property of purpose is removed, the purpose can only be inferred from the identity. The inference can yeild many purposes.
+
+A thing's identity is what the thing is not. Identity is a constitution of the rest or is there any reason for this category.
 
 Each concept is a thing created by defining what it is, but without reference to a more abstract or concrete layer. An example of a reference to a more abstract layer is if _a[1,2]_ + _b[1,2]_ = _c[11,12,21,22]_, then we have 4 different _c_, and it would be tempting to group them under a general category _x_, which would then look like a general thing that can be any of the four, but there is no _general thing_, there are just these four _c_. Example: A _field_ has _data format_ and _data type_ and combined they create a set of _data constructs_. We could wrongfully assume those _data constructs_ are _fields_, but there _is_ no thing called _field_, only our own grouping of the four _data constructs_ which are _things_.
 
@@ -63,7 +71,21 @@ Identity: The _emergence_ is the thing that is the result of the constitution an
 
 Identity: we don’t impose identity, we perceive it emerging from structured difference (our constitution, properties etc) and relevance(relevance = as related to purpose).
 
+**What about purpose?**
+
+Not needed. Anything provided by purpose can be included in other ways. Say an ax made of a wooden stick and flint stone i made by ancient civilication x. The purpose would typically state "Central tool for many things in ancient civilication x". That can instead be written as a property: "Designed and shaped using tools available in Ancient Civilization X" and "Also operates as a cultural artifact and symbolic object within its society", and in this way it comes into identity like "An axe composed of a wooden shaft and flint head, crafted by Ancient Civilization X", because identity is based in the constitution, properties and emergence of the thing.
+
+Purpose is redundant, thus...
+
+Purpose category is removed... We said a _thing_ is constructed with regard to its purpose, and everything is justified by its resonance with the purpose. However, removing purpose means identity becomes like that...
+
+Identity: The _thing_ is so and so. Then all other parts of the thing has to be oriented to the identity, and measured against the identity for how well the parts resonate with it.
+
+We should say identity is the organizing principle. Also, identity is at the core of all things. We no longer say any thing is purposeful merely by having described it. It is subjective to the one perceiving. However, purpose is always implied but depends on the observer.
+
 #### Purpose
+
+Purpose stands in relation to observable, measurable effect. Thus, a purpose is justified by its fitness with regard to its purpose. Fitness is determined by measuring how well it causes real world effect in relation to the purpose.
 
 (describes what the property purpose should be)
 Usefulness is the root purpose, and a thing defines its specific purpose based in that core purpose. Thus, all things are purposeful. All things are useful to their varying purposes.
@@ -71,6 +93,8 @@ Usefulness is the root purpose, and a thing defines its specific purpose based i
 What does a _thing of things_ do? Organize the field of perception in acordance with choice based in usefulness. Things are choosen in such a way that they become useful to the defined purpose. The person is thus actively giving structure to perception in such a way that it responds to the purpose. The purpose itself is described under this property.
 
 (a thing is therefor self-fulfilling)
+
+Degrees of purposefulness: The purpose can be modified and the thing still fulfills it. In two things with identical purpose but slightly different structure and constitution, there should be an observable effect of how well the thing fulfills the purpose, by which the purposefulness is measured.
 
 #### Constitution
 
