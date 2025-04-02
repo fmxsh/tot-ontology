@@ -7,18 +7,28 @@ Change: note i made it constitute of itself, i moved differentiated perception t
 
 Note: It proves itself also in the perceiver who is able to live by it. Thus, a very strong case of applying it. The application structures understanding leading to furthering of choices in direction of self-sustainance.
 
+Functional Ontological Minimalism,
+
 # structure of things
 
 ## Identity
 
-A _structure of things_ is a perceived, applied, fundamental structure.
+(Should describe _structure of a thing_, not _thing_, or _thing_ would be described from the outsid), implying a fixed structure. NO, it is fine the _structure of a thing_ deals with a _thing_. Things deal with things.)
+
+A _categorical structural analysis of things_ is a perceived, applied, fundamental structure.
 
 - It is _fundamental_ in the sense it is the structure of any thing.
-- it is a _framework_ in the sense it defines the outermost boundaries of any defined thing, within which the specific variatoins and patterns of the specific thing are defined.
+- It is a _structure_ in the sense it postulates, for a _thing_, four properties and the specific meaning of the relations between the content of each property. their specific relatoins with eachother, , identifies and categorizes the parts of the _thing_ in the categories identity, constitution, property and emergence.
 
-Thus, a _structure of things_ organizes the perception of any thing for exhaustive perceptual clarity (thus, including itself).
+- It is _analysis_ in the sense that relations among identified parts across categories are described, in the sense that a set of identified and categorized parts,
 
-It can only be reflected in a thing,
+_Structuring_ is an active process where a part can arise as an emergence of the relations among constitution and properties, and thus actively be categorized as emergence,
+
+and relations between parts comprising the thing.
+
+Thus, a _structure of things_ organizes the perception of any thing for exhaustive perceptual clarity (including itself, thus).
+
+It can only be reflected in a thing.
 
 The _structure of things_ is not a trancendental entity, that, if somehow all other things were to vanish, it would remain as "pure substance", "prior to any thing", "from which all things are made". A _structure of things_, contrary to that, is, wherever there is a thing. All things can be analyzed by _structure of things_.
 
@@ -32,11 +42,19 @@ Reading: A _structure of things_ (as defined here) is a _structure of things_ (w
 
 A _structure of things_ consists of a _structure of things_. (Intended self-reference).
 
-A _structure of things_ consists of a perceiver (also a _structure of things_).
+A _structure of things_ consists of a perceiver (which in itself is also a _structure of things_).
 
-## Properties
+## Constraint
 
-A _structure of things_ is differentiated perception. By the ability to differentiate, we can isolate one thing, recognize it as unique and different from other things.
+A _things_ is differentiated perception. By the ability to differentiate, we can isolate one thing, recognize it as unique and different from other things.
+
+---
+
+The _structure of things_ postulates a set of properties: identity, constitution, constraint, emergence.
+
+A _thing_ is self-emerging.
+
+(besides differentiated perception) A _thing_ has identity and property. (These are the only two properties.
 
 Some overall thoughts before starting with individual properties:
 
@@ -57,6 +75,8 @@ A thing may or may not exist prior to being articulated. Weather it does or not,
 Inarticulated _thingness_ is a retrospective title, which, because of retrospective application, also indicates prospective transformation from inarticulated to articulated _thingness_. This means that because we now know a _thing_, because we have articulated it, we can in retrospect say that it, prior to its articulation, was inarticulated _thingness_. With the validity of terming something of the past as inarticulated _thingness_, based on the fact we have seen it transform into articulated _thingness_, we can also say that there likely are inarticulated _thingness_ right now, that can become articulated in the future, and thus are prospective.
 
 Inarticulated _thingness_ is a category that hinge on the reality of an articulated _thing_. We can say there are inarticulated _things_ that should be articulated, because it increases situational awareness (however, things must be evaluated for their realness, by measuring real world effects). If I claim there is an intergalactic war, I need to demonstrate it in perceived reality or it is real only as a mental thing. Percieved reality is not merely perceived reality at face value (because the mind can distort things), but is what consistently responds in accordance with reality.
+
+### --
 
 ### Organizing principle
 
@@ -136,7 +156,9 @@ The color green is not yellow. We know there is a difference, but still, at this
 
 we can say, when we rely on external conceptual units like _tokens_, its constitution, but when internal, its property. so _data format_ and _data type_ is property, because its a characteristic we see within the structure made by the constituting things. properties are thus not things. but defines a thing. Any _thing_ that is part of a thing is constitution
 
-#### Property
+#### Constraint ~Property~
+
+Like rules governing the constitution. Example: Constitution: green and red. Constraint: can not be a combination of the two colors.
 
 #### Emergence
 
@@ -183,6 +205,18 @@ best possible form, because it captures all aspects of the thing.
 - A thing must have an identity.
 
 ## Emergence
+
+A thing must be differentiable. A thing can only exist if it is differentiated from others (from this follows that _structure of things_ is a differentiable, and if so, it implies a unique content, and it implies a boundary by which it can be separated from what it is not, thus implying an inside, and implying identity, and identity in turn implies differentiated perception of its inside, to be able to perceive its uniqueness, which must be there, if the thing is able to be separated from other things. The uniqueness of a thing can be analyzed and knonw, because there is differentiated perception. Differentiation is the fundamental constraining factor.)
+
+The act of putting constraints on the constitution of a thing, is the act of structuring (?) perception of the constitution of the _thing_, which naturally yields emergent structures and behaviours, which inherently becomes part of the thing.
+
+The inside of the _thing_ can be analyzed to have constitutents, and contraints, naturally, because it muust have content that differentiates it from other things. The category constitution and constraint thus are emergent categories of a things identity (that it has an unique _inside_) and the perceivers process of differentiation to perceive the constitution and constraints of the inside.
+
+Thus, of the constraint of differentiated perception, emergent categories of identity, constitution and constraint are derived. Emergence is also derived as a consequence of the analysis of constitution and constraint.
+
+---
+
+A _thing_ has only properties.
 
 Applies to all things -
 
