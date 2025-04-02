@@ -1,16 +1,24 @@
 > [!NOTE]
 > This is under development. Most recent comes under first level-1 heading.
 
+Suggested category: Functional Post-Structural Ontological Minimalism, Emergent Structural Functionalism. Post-Structural Constructivism.
+
+Change: note i made it constitute of itself, i moved differentiated perception to be a property , i included the perceiver as constitution of the thing... the thing consists of this _thing of things_ structure and the perceiver. The perceiver has self interest, coloring the perception of the thing , steering towards optimal definition of itself. The perceiver wouldnt seek to perceive things not useful to itself, and, remember, a thing exists when perceived, and thus the perceiver steer things into existence by its self interest.
+
+Note: It proves itself also in the perceiver who is able to live by it. Thus, a very strong case of applying it. The application structures understanding leading to furthering of choices in direction of self-sustainance.
+
 # Thing of things
 
 ## Identity
 
-A _thing of things_ is a _thing of things_, that is a fundamental framework. (intended self-reference).
+A _structure of things_ is a perceived, applied, fundamental structure.
 
-- It is fundamental in the sense it is the foundational structure that can be applied to any thing.
-- it is a framework in the sense it defines the outermost boundaries of any defined thing, within which the specific variatoins and patterns of the specific thing are defined.
+- It is _fundamental_ in the sense it is the structure of any thing.
+- it is a _framework_ in the sense it defines the outermost boundaries of any defined thing, within which the specific variatoins and patterns of the specific thing are defined.
 
 Thus, a _thing of things_ organizes the perception of any thing for exhaustive perceptual clarity (thus, including itself).
+
+It can only be reflected in a thing,
 
 The _thing of things_ is not a trancendental entity, that, if somehow all other things were to vanish, it would remain as "pure substance", "prior to any thing", "from which all things are made". A _thing of things_, contrary to that, is, wherever there is a thing. All things can be analyzed by _thing of things_.
 
@@ -22,15 +30,13 @@ Reading: A _thing of things_ (as defined here) is a _thing of things_ (which pro
 
 ## Constitution
 
-The _thing of things_ is constituted by differentiated perception.
+A _thing of things_ consists of a _thing of things_. (Intended self-reference).
 
-A thing is what it is not. Differentiated perception gives rise to the recognition that there are different things.
-
-By the ability to differentiate, we can isolate one thing, recognize it as unique and different from other things. (This constitutional ability or mechanism is used to recognize that the thing we construct is a thing).
-
-Contrast.
+A _thing of things_ consists of a perceiver (also a _thing of things_).
 
 ## Properties
+
+A _thing of things_ is differentiated perception. By the ability to differentiate, we can isolate one thing, recognize it as unique and different from other things.
 
 Some overall thoughts before starting with individual properties:
 
@@ -177,6 +183,18 @@ best possible form, because it captures all aspects of the thing.
 - A thing must have an identity.
 
 ## Emergence
+
+Applies to all things -
+
+Is a framework -
+
+Because a _thing of things_ is self-referential. It consists of itself, using itself to describe itself.
+
+A perciever is part of the _thing of things_, because without the perceiver, there is no perception of the thing. The meaningful existence of a thing is dependent on the perceiver. Because there is a perceiver, there is a differentiation of perception enacted by the perceiver.
+
+A perceiver is anything that can describe itself in terms of the _thing of things_. (Directly conscious entity is self-aware, an indirectly concious entity is an entity that can describe itself and is acting as an extension of self-aware enteties (an organizatoin, an AI, and similar)
+
+Because a perceiver describes itslef in terms of the _thing of things_, it also implies a process of choice and purpose. The choices defining the conscious entity (for example a human) affects the perception of other things, such that either the things are useful or not to the self-interest of the being perceiving them. The easiest to think of is self-preservance. Tools to secure self-preservance are favoured over non-functional things.
 
 ### Self-emergence
 
