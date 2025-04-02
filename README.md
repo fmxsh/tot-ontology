@@ -3,11 +3,11 @@
 
 Suggested category: Functional Post-Structural Ontological Minimalism, Emergent Structural Functionalism. Post-Structural Constructivism.
 
-Change: note i made it constitute of itself, i moved differentiated perception to be a property , i included the perceiver as constitution of the thing... the thing consists of this _thing of things_ structure and the perceiver. The perceiver has self interest, coloring the perception of the thing , steering towards optimal definition of itself. The perceiver wouldnt seek to perceive things not useful to itself, and, remember, a thing exists when perceived, and thus the perceiver steer things into existence by its self interest.
+Change: note i made it constitute of itself, i moved differentiated perception to be a property , i included the perceiver as constitution of the thing... the thing consists of this _structure of things_ structure and the perceiver. The perceiver has self interest, coloring the perception of the thing , steering towards optimal definition of itself. The perceiver wouldnt seek to perceive things not useful to itself, and, remember, a thing exists when perceived, and thus the perceiver steer things into existence by its self interest.
 
 Note: It proves itself also in the perceiver who is able to live by it. Thus, a very strong case of applying it. The application structures understanding leading to furthering of choices in direction of self-sustainance.
 
-# Thing of things
+# structure of things
 
 ## Identity
 
@@ -16,33 +16,33 @@ A _structure of things_ is a perceived, applied, fundamental structure.
 - It is _fundamental_ in the sense it is the structure of any thing.
 - it is a _framework_ in the sense it defines the outermost boundaries of any defined thing, within which the specific variatoins and patterns of the specific thing are defined.
 
-Thus, a _thing of things_ organizes the perception of any thing for exhaustive perceptual clarity (thus, including itself).
+Thus, a _structure of things_ organizes the perception of any thing for exhaustive perceptual clarity (thus, including itself).
 
 It can only be reflected in a thing,
 
-The _thing of things_ is not a trancendental entity, that, if somehow all other things were to vanish, it would remain as "pure substance", "prior to any thing", "from which all things are made". A _thing of things_, contrary to that, is, wherever there is a thing. All things can be analyzed by _thing of things_.
+The _structure of things_ is not a trancendental entity, that, if somehow all other things were to vanish, it would remain as "pure substance", "prior to any thing", "from which all things are made". A _structure of things_, contrary to that, is, wherever there is a thing. All things can be analyzed by _structure of things_.
 
-A _thing of things_ is not in addition to a _thing_. It is not a substrata.
+A _structure of things_ is not in addition to a _thing_. It is not a substrata.
 
-A _thing of things_ is _the thingness of any thing_.
+A _structure of things_ is _the thingness of any thing_.
 
-Reading: A _thing of things_ (as defined here) is a _thing of things_ (which provides the construct to define itself), that is a fundamental framework.
+Reading: A _structure of things_ (as defined here) is a _structure of things_ (which provides the construct to define itself), that is a fundamental framework.
 
 ## Constitution
 
-A _thing of things_ consists of a _thing of things_. (Intended self-reference).
+A _structure of things_ consists of a _structure of things_. (Intended self-reference).
 
-A _thing of things_ consists of a perceiver (also a _thing of things_).
+A _structure of things_ consists of a perceiver (also a _structure of things_).
 
 ## Properties
 
-A _thing of things_ is differentiated perception. By the ability to differentiate, we can isolate one thing, recognize it as unique and different from other things.
+A _structure of things_ is differentiated perception. By the ability to differentiate, we can isolate one thing, recognize it as unique and different from other things.
 
 Some overall thoughts before starting with individual properties:
 
-There can not be any thing without the thingness of the _thing of things_.
+There can not be any thing without the thingness of the _structure of things_.
 
-(These are the properties of any thing, and thus also of the _thing of things_, as seen in that the _thing of things_ itself describes itself using these properties, thus is self-referential, self-organizing)
+(These are the properties of any thing, and thus also of the _structure of things_, as seen in that the _structure of things_ itself describes itself using these properties, thus is self-referential, self-organizing)
 
 Articulated _thingness_ and inarticulated _thingness_.
 
@@ -60,9 +60,9 @@ Inarticulated _thingness_ is a category that hinge on the reality of an articula
 
 ### Organizing principle
 
-A _thing of things_ must have an internalized identity (it must have its identity defined within itself, as a cause of its internal parts).
+A _structure of things_ must have an internalized identity (it must have its identity defined within itself, as a cause of its internal parts).
 
-All things in _thing of things_ must be consistent with an organizing principle (the identity).
+All things in _structure of things_ must be consistent with an organizing principle (the identity).
 
 The organizing principle (the identity) defines the boundaries, in such a way that whatever is not consistent with the identity, is outside the boundary of the thing, and thus is not part of the thing.
 
@@ -76,9 +76,9 @@ All things are
 
 Describes what the _thing_ is, in terms defined by itself (the content of its constitution, properties and emergences).
 
-A thing also identify as a _thing of things_ by being an application of _thing of things_, in the sense that the properties constitution, properties and emergence are used to analyze and describe the _thing_.
+A thing also identify as a _structure of things_ by being an application of _structure of things_, in the sense that the properties constitution, properties and emergence are used to analyze and describe the _thing_.
 
-It starts with "I am a _thing of things_ that is ..."
+It starts with "I am a _structure of things_ that is ..."
 
 It does not state purpose. Purpose can be implied, and is subjective.
 
@@ -116,7 +116,7 @@ Purpose stands in relation to observable, measurable effect. Thus, a purpose is 
 (describes what the property purpose should be)
 Usefulness is the root purpose, and a thing defines its specific purpose based in that core purpose. Thus, all things are purposeful. All things are useful to their varying purposes.
 
-What does a _thing of things_ do? Organize the field of perception in acordance with choice based in usefulness. Things are choosen in such a way that they become useful to the defined purpose. The person is thus actively giving structure to perception in such a way that it responds to the purpose. The purpose itself is described under this property.
+What does a _structure of things_ do? Organize the field of perception in acordance with choice based in usefulness. Things are choosen in such a way that they become useful to the defined purpose. The person is thus actively giving structure to perception in such a way that it responds to the purpose. The purpose itself is described under this property.
 
 (a thing is therefor self-fulfilling)
 
@@ -148,7 +148,7 @@ we can say, when we rely on external conceptual units like _tokens_, its constit
 
 #### Self-evident
 
-A thing is the description of itself. The description of a thing is not external to itself. A blueprint would be a thing (it is a blueprint) that describes another thing. However, both the blueprint and the building it describes are two separate things, sharing the very same _thingness_. Because all things have _thingness_, all objects are their own description. They are self-evident. They do not need anything to describe them because their very composition is the highest level description of what they are. The _thing of things_ itself, does not need these words. It exists in its completeness regardless. That means: all things can be seen to represent the structure described here.
+A thing is the description of itself. The description of a thing is not external to itself. A blueprint would be a thing (it is a blueprint) that describes another thing. However, both the blueprint and the building it describes are two separate things, sharing the very same _thingness_. Because all things have _thingness_, all objects are their own description. They are self-evident. They do not need anything to describe them because their very composition is the highest level description of what they are. The _structure of things_ itself, does not need these words. It exists in its completeness regardless. That means: all things can be seen to represent the structure described here.
 
 #### Structured perception determines a things existence
 
@@ -169,7 +169,7 @@ It describes the system while simultaneously being the very system it describes.
 
 #### Completeness
 
-A _thing of things_ is the structuring of perception that represents the completeness of any object. A _thing of things_ stears to organize perception of a thing into a complete organization of all aspects the thing. That means: every possible aspect of the thing is structured in perception. A thing can be perceived without explicit awareness of all its aspects, (identity, constitution etc...), but because the object consist of all those aspects, it still describes itself as such, merely by occuring to perception. However, the quality of the thing, meaning the choice-influencing form it adopts in perception, depends on how the perception is structured. This ontology structures perception in th
+A _structure of things_ is the structuring of perception that represents the completeness of any object. A _structure of things_ stears to organize perception of a thing into a complete organization of all aspects the thing. That means: every possible aspect of the thing is structured in perception. A thing can be perceived without explicit awareness of all its aspects, (identity, constitution etc...), but because the object consist of all those aspects, it still describes itself as such, merely by occuring to perception. However, the quality of the thing, meaning the choice-influencing form it adopts in perception, depends on how the perception is structured. This ontology structures perception in th
 best possible form, because it captures all aspects of the thing.
 
 ### Thing properties
@@ -188,21 +188,21 @@ Applies to all things -
 
 Is a framework -
 
-Because a _thing of things_ is self-referential. It consists of itself, using itself to describe itself.
+Because a _structure of things_ is self-referential. It consists of itself, using itself to describe itself.
 
-A perciever is part of the _thing of things_, because without the perceiver, there is no perception of the thing. The meaningful existence of a thing is dependent on the perceiver. Because there is a perceiver, there is a differentiation of perception enacted by the perceiver.
+A perciever is part of the _structure of things_, because without the perceiver, there is no perception of the thing. The meaningful existence of a thing is dependent on the perceiver. Because there is a perceiver, there is a differentiation of perception enacted by the perceiver.
 
-A perceiver is anything that can describe itself in terms of the _thing of things_. (Directly conscious entity is self-aware, an indirectly concious entity is an entity that can describe itself and is acting as an extension of self-aware enteties (an organizatoin, an AI, and similar)
+A perceiver is anything that can describe itself in terms of the _structure of things_. (Directly conscious entity is self-aware, an indirectly concious entity is an entity that can describe itself and is acting as an extension of self-aware enteties (an organizatoin, an AI, and similar)
 
-Because a perceiver describes itslef in terms of the _thing of things_, it also implies a process of choice and purpose. The choices defining the conscious entity (for example a human) affects the perception of other things, such that either the things are useful or not to the self-interest of the being perceiving them. The easiest to think of is self-preservance. Tools to secure self-preservance are favoured over non-functional things.
+Because a perceiver describes itslef in terms of the _structure of things_, it also implies a process of choice and purpose. The choices defining the conscious entity (for example a human) affects the perception of other things, such that either the things are useful or not to the self-interest of the being perceiving them. The easiest to think of is self-preservance. Tools to secure self-preservance are favoured over non-functional things.
 
 ### Self-emergence
 
-Self-emergence is the unifying emergent principle by which a _thing of things_ achieves its self-hood, meaning it can itself enact whatever is required of it, like being self-organizing, self-constituting, self-defining etc. It is thus not relying on external instruction. Its recursive nature implies it never, at any point, was relying on external instruction. It is thus not a system described by something outside it. It is self-describing. It describes any thing, including itself, using itself.
+Self-emergence is the unifying emergent principle by which a _structure of things_ achieves its self-hood, meaning it can itself enact whatever is required of it, like being self-organizing, self-constituting, self-defining etc. It is thus not relying on external instruction. Its recursive nature implies it never, at any point, was relying on external instruction. It is thus not a system described by something outside it. It is self-describing. It describes any thing, including itself, using itself.
 
-At the core, we have the recognition of difference in perception. How perception is differentiated (meaning where we percieve the boundaries of a thing) is defined by its identity. One may be surprised many more expensive speakers do not come with cables or even amplifiers. That is because in the domain of high end speakers another ontology presides, where the concept of a speaker is limited to the actual speaker unit, whereas in the budget market, a speaker is understood as "that which makes sound" which then implies a whole set of common things such as sound cables and power adapters. A thing here, thus is understood and delineated by an describable idea. If you ask the dealer in a high end shop about the cables, he would _describe_ the _idea_ that the speaker unit is _just the speakers and not the sound cables_. In a _Thing of Things_, the identity is the highest delimiting factor, which is also contained within the thing, and thus the thing contains its own boundaries. (It is thus self-delimiting).
+At the core, we have the recognition of difference in perception. How perception is differentiated (meaning where we percieve the boundaries of a thing) is defined by its identity. One may be surprised many more expensive speakers do not come with cables or even amplifiers. That is because in the domain of high end speakers another ontology presides, where the concept of a speaker is limited to the actual speaker unit, whereas in the budget market, a speaker is understood as "that which makes sound" which then implies a whole set of common things such as sound cables and power adapters. A thing here, thus is understood and delineated by an describable idea. If you ask the dealer in a high end shop about the cables, he would _describe_ the _idea_ that the speaker unit is _just the speakers and not the sound cables_. In a _structure of things_, the identity is the highest delimiting factor, which is also contained within the thing, and thus the thing contains its own boundaries. (It is thus self-delimiting).
 
-The _Thing of Things_ contains its own boundary as a reflection of its identity. Embeded in the thing itself, is the identity which is the highest structural contraint, or structural affirmation.
+The _structure of things_ contains its own boundary as a reflection of its identity. Embeded in the thing itself, is the identity which is the highest structural contraint, or structural affirmation.
 
 It is the act of differentiating perception to isolate _identity_ as a property in a thing (rather than putting the identity outside the thing), that makes the identity give rise to self-emergence, in the sense that any other thing within the thing must align it-_self_ with the identity, thus, the thing becomes self-enacting.
 
@@ -212,8 +212,8 @@ It contains the conditions for its own organization.
 
 (Perhaps the most impoprant emergent feature of a thing): All properties are aligned to support the identity. This is implicit, as the identity is integral, and a identity can not be integral to a thing that does not honor it. The boundary of a thing (how a thing is differentiated from other things) is based in the identity. Things that do not align with the identity, are simply outside the thing, not part of the thing. Remember, a thing is self-evident. It does not need a description on a paper, like a blueprint. It itself is its own description. It will be self-evident if a thing relates to the identity or not. If we describe the thing, we can do conceptual errors of putting non-identityful aspects in the description, but that is just a bad description, and will simply not have effect in reality.
 
-The _thing of things_ is a framework used to structure the perception of a thing, and as such,
-The property identity, of _thing of things_ defines the root-identity. The role of a identity is to "organizes the perception of its _thingness_ for exhaustive perceptual clarity (thus, including itself)." Here, the validity of _identity_ is measured against perceived resonance with its parts (or its parts with the property identity).
+The _structure of things_ is a framework used to structure the perception of a thing, and as such,
+The property identity, of _structure of things_ defines the root-identity. The role of a identity is to "organizes the perception of its _thingness_ for exhaustive perceptual clarity (thus, including itself)." Here, the validity of _identity_ is measured against perceived resonance with its parts (or its parts with the property identity).
 
 #### Self-defining
 
@@ -240,13 +240,13 @@ By defining its identity, it generates the means to fulfill it.
 For any thing to be perceived, there needs to be perception of difference. Based in percieving difference, we recognize a thing, any thing, has properties, , identity, etc. Thus, several dimensions of a thing are outlined. This differentiation among aspects of a thing is possible, because the fundamental constitution of any object, is differentiation. By differentiating things of perception, a set of aspects, or dimensions, or properties, of a thing can be perceived.
 
 <maybe remove this as we removed property purpose>
-The relations between these properties (purpose, constitution, property etc) of the thing, gives rise to certain emergent features of the thing, which comes to further define the _thing of things_. Remember, the _thing_ is the specific thing, whereas _thing of things_ refer, also to the specific thing, but to its general structure, defined as _thing of things_. The _thing of things_ **is** a thing just as any thing. Any thing can be percieved as such, without any other specific qualities. However, to call specific things into perception, they must be differentiated for their unique attributes, and the _thing of things_ serves as a way to structure perception of any thing to frame the perception of its specific content with exhausting perceptual clarity, which is achieved by structuring perception to frame its specific content in all its dimensions (properties), not just a few. The degree of a specific hammer's usefullness is better understood if the totality of what makes the hammer is understood. Therein is for example the purpose of the hammer. Reviewing the constitution (its parts) also reveals its degree of usefulness, and so on. The property _purpose_, as seen as integral property of the thing, makes the object self-defining. Here, the property is _purpose_ "perceptually recognized" as integral to the thing.
+The relations between these properties (purpose, constitution, property etc) of the thing, gives rise to certain emergent features of the thing, which comes to further define the _structure of things_. Remember, the _thing_ is the specific thing, whereas _structure of things_ refer, also to the specific thing, but to its general structure, defined as _structure of things_. The _structure of things_ **is** a thing just as any thing. Any thing can be percieved as such, without any other specific qualities. However, to call specific things into perception, they must be differentiated for their unique attributes, and the _structure of things_ serves as a way to structure perception of any thing to frame the perception of its specific content with exhausting perceptual clarity, which is achieved by structuring perception to frame its specific content in all its dimensions (properties), not just a few. The degree of a specific hammer's usefullness is better understood if the totality of what makes the hammer is understood. Therein is for example the purpose of the hammer. Reviewing the constitution (its parts) also reveals its degree of usefulness, and so on. The property _purpose_, as seen as integral property of the thing, makes the object self-defining. Here, the property is _purpose_ "perceptually recognized" as integral to the thing.
 
 </maybe remove this as we removed property purpose>
 
 In the same way, the thing is recognized to be related to other distinct things, which are perceived by the same capability of perception of difference, is able to discern the things being part of the constitution of the thing. The constitution is also seen as integral to the thing. One could argue the parts of a speaker are not integral to it (they are different external things, just put in the same speaker box, and they all have their own blueprints and can even be sold separately). However, the boundary of a thing (how we differentiate it from other things) is determined here by the integral identity of a thing. All things needed for the identity are considered integral to the thing. The thing specifies all of its parts in _constitutoin_ and a thing is thus self-constituting.
 
-~A _thing of things_ is self-organizing, in that the structure l~
+~A _structure of things_ is self-organizing, in that the structure l~
 
 whose content combined creates the absolute uniqueness of the thing.
 
@@ -288,20 +288,20 @@ Emergence - The properties are defined to organize the differentiated perception
 
 Emergence:
 
-# Ontology of thing of things
+# Ontology of structure of things
 
-Identity: The _Ontology of thing of things_ an ontology in that it describes a _thing of things_. A _thing of things_ is a root meta-structure: that is self-defining, self-constituting, self-organizing, and self-reflecting.
+Identity: The _Ontology of structure of things_ an ontology in that it describes a _structure of things_. A _structure of things_ is a root meta-structure: that is self-defining, self-constituting, self-organizing, and self-reflecting.
 
 - It defines defines the general structure of any specific structure, including itself.
 - It is constituting any structure, including itself.
 - It organizes any structure, including itself.
 - It describes any structure, including itself, using descriptive categories that are structures defined by _it_, and that are _it_ in essence.
 
-A _thing of things_ is a discernable purposeful entity that contains discernable enteties that are purposeful to the thing.
+A _structure of things_ is a discernable purposeful entity that contains discernable enteties that are purposeful to the thing.
 
 Purpose:
 
-What does a _thing of things_ do? Organize the field of perception in acordance with choice based in usefulness. (a thing can thus self-constituting, as the root purpose of all things, is to organize the field of perception (meaning define constitutions, properties etc) in accordance with choice based in usefulness. Usefulness is the root purpose, and a thing defines its specific purpose based in that core purpose)
+What does a _structure of things_ do? Organize the field of perception in acordance with choice based in usefulness. (a thing can thus self-constituting, as the root purpose of all things, is to organize the field of perception (meaning define constitutions, properties etc) in accordance with choice based in usefulness. Usefulness is the root purpose, and a thing defines its specific purpose based in that core purpose)
 
 - It is _root_ because it defines the general structure which is the structure of any specific structure.
 - it is _meta_ because it is self-defining, self-constituting, self-organizing, and self-reflecting.
@@ -314,7 +314,7 @@ Self-organizing: Through structured perception and categorization.
 
 Self-reflecting: It describes itself using the same descriptive categories that define other things.
 
-## A Thing of things
+## A structure of things
 
 Identity: An identifiable entity that can be distinguished from other entities. (Thus, it is the same as for _thing_)... purposeful perception of difference
 
@@ -322,7 +322,7 @@ Purpose: The purpose is to serve a purpose.
 
 Constitution:
 
-- A _thing of things_ consists of _things_.
+- A _structure of things_ consists of _things_.
 - The association of particular things as related to purpose.
 - Purpose
 - Emergence
@@ -337,11 +337,11 @@ Property:
 
 Emergence: A particular thing can be known by percieving a difference with everything that it is not. Many particular things can be associated with eachother, organized around a particular purpose. The many particular things, organized around a purpose, are the constitution of an emergent _thing of thing_ that is a particular thing that consists of all the particular things and their relations.
 
-For example: this very thing being described right now, is based in purpose, constitution, property, and these together comprise a unifying thing called _thing of things_.
+For example: this very thing being described right now, is based in purpose, constitution, property, and these together comprise a unifying thing called _structure of things_.
 
 ## Thing
 
-(A thing is defined here using a _thing of things_, and a _thing of things_ in turn is consisting of many _thing_. Thus we recognize a _thing_ itself as a _thing of things_. A _thing_ thus is not merely a simple smaller building block, but part of a recursive self-definition)
+(A thing is defined here using a _structure of things_, and a _structure of things_ in turn is consisting of many _thing_. Thus we recognize a _thing_ itself as a _structure of things_. A _thing_ thus is not merely a simple smaller building block, but part of a recursive self-definition)
 
 Identity: An identifiable entity that can be distinguished from other entities.
 
@@ -400,7 +400,7 @@ Property:
 
 - An identity must be based in the emergence.
 - It must be related to the purpose.
-- It must belong to a _thing of things_.
+- It must belong to a _structure of things_.
 
 Emergence: Relating to the purpose, the differentiation of perception is done to identify what is useful to the purpose, and the identity emerges as the concept of the very structure being percieved.
 
@@ -408,13 +408,13 @@ Emergence: Relating to the purpose, the differentiation of perception is done to
 
 ## Constituent
 
-Constitution: _thing_, purpose, _thing of things_
+Constitution: _thing_, purpose, _structure of things_
 
 Property:
 
 Purpose: To be part of a set of things to cause emergence in accordance with the purpose.
 
-Emergence: Being part of a _thing of things_, the _thing_ emerges as a part capable of relating to other parts in relation to the purpose of the _thing of things_.
+Emergence: Being part of a _structure of things_, the _thing_ emerges as a part capable of relating to other parts in relation to the purpose of the _structure of things_.
 
 ## Emergence
 
@@ -578,7 +578,7 @@ Constitution:
 - Purpose, that one discerned thing is favored (choosen) over another.
 - Value of good and bad basis of choice and purpose. An usefull thing is good, a harmful thing is bad.
 
-A _thing of things_ is also constituted by the structure of purpose, identity, constitution, property, and emergence. Thus, a _thing of a thing_ is self-constituting (consisting of the things it defines), self-organizing (organizes itself by the way it defines), and self-reflecting (describes itself using the categories it created). (In addition to this, it is self-defining, in that it identifies its own role in the purpose part, and the purpose part is a result of its self-constituting ability to create such a thing called "purpose")
+A _structure of things_ is also constituted by the structure of purpose, identity, constitution, property, and emergence. Thus, a _thing of a thing_ is self-constituting (consisting of the things it defines), self-organizing (organizes itself by the way it defines), and self-reflecting (describes itself using the categories it created). (In addition to this, it is self-defining, in that it identifies its own role in the purpose part, and the purpose part is a result of its self-constituting ability to create such a thing called "purpose")
 i
 
 ... any constitution of a thing, is the perception of difference, steered by purpose, thus steered perception creates the things needed to fulfil the purpose of the thing.
@@ -589,9 +589,9 @@ Property: A thing has the property of containing units. An unit is percieved bec
 
 Emergence: One unit, delinated in the field of perception, emerges, which has many units. The unit is purposeful.
 
-(The thing of things: It is constituted by perception of difference and the value-driven favoring of one thing over another. It has properties, such as the ability to contain subunits and be perceived as a unit. It gives emergence to structures — these emergent things are the solid, nameable "units" of your system (like data construct). That emergent unit becomes the first usable "Thing" in your ontology.)
+(The structure of things: It is constituted by perception of difference and the value-driven favoring of one thing over another. It has properties, such as the ability to contain subunits and be perceived as a unit. It gives emergence to structures — these emergent things are the solid, nameable "units" of your system (like data construct). That emergent unit becomes the first usable "Thing" in your ontology.)
 
-A thing of things is a discernible purposeful entity containing other, to the thing of things, discernible purposeful entities.
+A structure of things is a discernible purposeful entity containing other, to the structure of things, discernible purposeful entities.
 
 ### Defining the description of a thing:
 
@@ -610,14 +610,14 @@ Emergence: Combining the constitutions of identity, constitution, and property, 
 #### Identity
 
 Identity: Is a concept...
-Constitution: Consists of a _thing of things_.
+Constitution: Consists of a _structure of things_.
 
 Property:
 
 - Self reliant (: Each concept is a thing created by defining what it is, but without reference to a more abstract or concrete layer.) And all the rest...
   Emergence:
 
-Emergence: a _thing of things_ takes the form of _identity_ by the combined properties...
+Emergence: a _structure of things_ takes the form of _identity_ by the combined properties...
 
 ---
 
@@ -791,26 +791,26 @@ Each concept is a thing created by defining what it is, but without reference to
 
 Emergence is based in property, which is based in constitution.
 
-The thing of things is a ladder that can climb itself.
+The structure of things is a ladder that can climb itself.
 
 ---
 
-Identity: The _thing of things_ is a
+Identity: The _structure of things_ is a
 
-Constitution: the _ontology of thing of things_ consists of a _thing of things_.
+Constitution: the _ontology of structure of things_ consists of a _structure of things_.
 
 - Perception of difference.
 
 - Value-driven favoring of one thing over another.
 - Purposeful, ...
-- The _thing of things_ consists of _thing of things_. It is thus self-constituting.
+- The _structure of things_ consists of _structure of things_. It is thus self-constituting.
 - Ontology
 
-Property: The _thing of things_ is self-constituting, because it constitutes itself.
+Property: The _structure of things_ is self-constituting, because it constitutes itself.
 
 Emergence:
 
-The ontology of _thing of things_ is a root meta-ontology.
+The ontology of _structure of things_ is a root meta-ontology.
 
 ## Is
 
