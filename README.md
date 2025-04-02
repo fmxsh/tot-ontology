@@ -9,40 +9,47 @@ Note: It proves itself also in the perceiver who is able to live by it. Thus, a 
 
 Functional Ontological Minimalism,
 
-# structure of things
+a post-metaphysical ontology that grounds structure in function and perception, not abstraction.
+
+# Structure of things
 
 ## Identity
 
 (Should describe _structure of a thing_, not _thing_, or _thing_ would be described from the outsid), implying a fixed structure. NO, it is fine the _structure of a thing_ deals with a _thing_. Things deal with things.)
 
-A _categorical structural analysis of things_ is a perceived, applied, fundamental structure.
+A _structure of things_ is an analytical fundamental structure.
 
-- It is _fundamental_ in the sense it is the structure of any thing.
-- It is a _structure_ in the sense it postulates, for a _thing_, four properties and the specific meaning of the relations between the content of each property. their specific relatoins with eachother, , identifies and categorizes the parts of the _thing_ in the categories identity, constitution, property and emergence.
+- It is _fundamental_ in the sense it is the structure of any thing (including itself).
+- It is a _structure_ in the sense it, for a _thing_, postulates four structural categories and the specific meaning of the relations between the content of each structural category. their specific relatoins with eachother, , identifies and categorizes the parts of the _thing_ in the categories identity, constitution, property and emergence.
+- It is _analytical_ in the sense that relations among the content of the structural categories constitution, constraint, and emergence are isolated, by differentiating perception, into those categories, and how their relations, that form the unique identity of the _thing_, are explicitly stated.
 
-- It is _analysis_ in the sense that relations among identified parts across categories are described, in the sense that a set of identified and categorized parts,
-
-_Structuring_ is an active process where a part can arise as an emergence of the relations among constitution and properties, and thus actively be categorized as emergence,
-
-and relations between parts comprising the thing.
+Being an analytical fundamental structure, that is part of any thing, it brings exhaustive perceptual clarity to any thing.
 
 Thus, a _structure of things_ organizes the perception of any thing for exhaustive perceptual clarity (including itself, thus).
 
-It can only be reflected in a thing.
+(some inconsistencies in can be applied vs is intrinsically applied)
 
-The _structure of things_ is not a trancendental entity, that, if somehow all other things were to vanish, it would remain as "pure substance", "prior to any thing", "from which all things are made". A _structure of things_, contrary to that, is, wherever there is a thing. All things can be analyzed by _structure of things_.
+Reading: The _structure of things_ can be applied in analyzing anything to describe it with exhausting perceptual clarity. Thus, the analytical process of applying _structure of things_ is applied to describe itself. This very scentence is read right now by a perceiver, who is applying the _structure of things_ to discern what a _structure of things_ is. Right now, as this is being read word by word, the analyzis is enacted by the structural category of _identity_, right now, being isolated and brought to perception as a part of the _thing_ which in this case is _structure of things_. The _structure of things_ contains in itself the means to construct itself, in relation to a perceiver. There is nothing outside _structure of things_ that describes and justifies it.
 
-A _structure of things_ is not in addition to a _thing_. It is not a substrata.
+A _structure of things_ is a potential perceptual structure any things. That is; the _thing_ does not exist as such to the perceiver, unless the perceptual differentiation process of the perceiver, is capable of differentiating the thing and its content by this structure. Thus, _structure of a thing_ is enacted, putting analysis in action, causing exhaustive perceptual clarity to be realized.
 
-A _structure of things_ is _the thingness of any thing_.
+A _structure of a thing_ is a _thing_ (becomes a recursive structure with _constitution_ in regard; see _constitution_). It is not a thing in a sense of being a separate thing beside other things. It is a _thing_ in the sense that it is any _thing_, wherever a _thing_ is present.
 
-Reading: A _structure of things_ (as defined here) is a _structure of things_ (which provides the construct to define itself), that is a fundamental framework.
+We thus do not have _structure of things_ that acts on a _thing_ to for example describe it, like _logos_ acts on humans, to describe them. Instead, the _structure of things_ is intrinsic: it is the way any thing is. The _structure of things_ thus is self-evident by the very being of the thing. The thing itself, by existing, and thus necessarily having the structure of _structure of things_, thus is self-evident as a _thing_ with _structure of things_ intrinsic. Thus, _structure of things_ is not conceptual framing that is applied to analyze a thing. It is the organizing principle of the thing, necessarily arising from its beingness. A thing, being its own complete description, merely by being in its perceived uniqueness, is thus self-analyzing. Any thing applies its own analytical fundamental structure, to itself, even if that reality remains indirect as a mere potential for the perceiver to realize by applying the analytical fundamental structure of _structure of things_. The thing is self-structuring in the sense it is a thing that the perceiver then can analyze to perceive the very structure. The structure of _structure of things_ is true, because it can be verified. If _structure of things_ would be ontologically irrational, it would not be able to be verified in a thing.
+
+For any thing x, if x exists, then x necessarily conforms to the structure of things; and the truth of this structure is verifiable through the perception of x.
+
+Because all things intrinsically have the self-evident structure of _structure of a thing_, any _thing_ described, necessarily can be analyzed by _structure of a thing_, because it has the foundational structure of _structure of a thing_. It is thus always possible to analyze a thing by applying _structure of a thing_, even the _structure of things_ itself, as is being done here. The _structure of things_ is a analytical fundamental structure, used to analyze things, and as such, it is its own thing, and thus can itself be analyzed by the same structure of analysis that it is.
 
 ## Constitution
 
-A _structure of things_ consists of a _structure of things_. (Intended self-reference).
+A _structure of things_ consists of a _thing_.
+
+- It can only be reflected in a thing. The _structure of things_ is not a trancendental entity, that, if somehow all other things were to vanish, it would remain as "pure substance", "prior to any thing", "from which all things are made". A _structure of things_, contrary to that, is, wherever there is a thing. All things can be analyzed by _structure of things_. A _structure of things_ is not in addition to a _thing_, like logos describing humans. It is not a substrata (for example "pure consciousness"). A _structure of things_ is _the thingness of any thing_.
 
 A _structure of things_ consists of a perceiver (which in itself is also a _structure of things_).
+
+A _structure of things_, or any thing, **does not** consists of a _structure of things_. Even if it has the same categories identified by it (identity, constitution etc...). It is because the categories emerges as self-evident from the process of differentiating perception which all objects are constituted of. Any object thus have all it need to self-organize these categories, and this self-organizing is exactly what _structure of things_ describe. Thus, _structure of things_ does not stipulate a set of categories, it merely show how these, and exactly these, inveitabely emerges in any object.
 
 ## Constraint
 
@@ -159,6 +166,8 @@ we can say, when we rely on external conceptual units like _tokens_, its constit
 #### Constraint ~Property~
 
 Like rules governing the constitution. Example: Constitution: green and red. Constraint: can not be a combination of the two colors.
+
+Can constrain both constitution and emergence, thus full power in shaping the identity.
 
 #### Emergence
 
