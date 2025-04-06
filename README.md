@@ -16,11 +16,21 @@ a post-metaphysical ontology that grounds structure in function and perception, 
 Relation:
 Thing:
 
-# Structure of Conceptual Models
+# Conceptual Model
 
 ## Identity
 
-We seem to have a circular definition: _Structure of conceptual models_ is itself a _conceptual model_. Therefore, it must be analyzable by itself.
+A conceptual model has the general structure if _structure of conceptual models_.
+
+## Constitution
+
+A _conceptual model_ consists of the general structure of _structure of conceptual models_, meaning it has the four categories: identity, constitution, constraint and emergence.
+
+## Constraint
+
+# Structure of Conceptual Models
+
+## Identity
 
 ### ...
 
@@ -63,8 +73,6 @@ These are brief definitions. Their exact definitions are understood by following
 
 #### Unit
 
-#### Thing
-
 #### Relation
 
 #### Constitution
@@ -79,20 +87,49 @@ These are brief definitions. Their exact definitions are understood by following
 
 ### The thing
 
-Having established the terms, we can now define the _thing_ called _structure of things_.
+A _structure of conceptual models_ is a _conceptual model_ describing the general structure of all possible conceptual models.
 
-A _structure of things_ is an analytical, fundamental structure that can be applied to any _thing_.
+It is an analytical, prescriptive, descriptive, fundamental structure that can be applied to express any _conceptual model_.
 
 - It is _fundamental_ in the sense it is the structure of any thing (including itself).
-- It is a _structure_ in the sense that, for a _thing_, it postulates four structural categories and the specific meaning of the relations between the content of each structural category. their specific relatoins with eachother, , identifies and categorizes the parts of the _thing_ in the categories identity, constitution, property and emergence.
-  FIX THIS...- It is _analytical_ in the sense that relations among the content of the structural categories constitution, constraint, and emergence are isolated, by differentiating perception, into those categories, and how their relations, that form the unique identity of the _thing_, are explicitly stated.
-  It is analytical in that differentiated perception is applied to isolate isolates different parts and relations among those parts,
-
-Being an analytical fundamental structure, that is part of any thing, it brings exhaustive perceptual clarity to any thing.
+- It is a _structure_ in the sense that, for a _thing_, it postulates three generative categories and the specific meaning of the relations between the content of each of them, and it postulates a fourth category, a derivational category, being the conclusive definition as based in the previous three categories.
+- It is _analytical_ in the sense that it identifies genrative _units_ and places them in a suitable generative category, and then analyses the relations among _units_ in the three categories,
+- It is _descriptive_, in the sense a _conceptual model_ is described by the derivational category.
+- It is _prescriptive_, in the sense it is applied to structure the perceivers perception of a thing for exhaustive perceptual clarity, consequently influencing the perceivers choices.
 
 Thus, a _structure of things_ organizes the perception of any thing for exhaustive perceptual clarity (including itself, thus).
 
-(some inconsistencies in can be applied vs is intrinsically applied)
+It claims to be fundamental to _meaningful perception_. Perception is not meaningful unless the perceiver has a conceptual model ascribing meaning to what is perceived of the senses. Aascribing meaning to sensory impressions happens as a natural response. The perceiver navigates the world by asking:
+
+- What is this thing? (Example: Eminem's "Lose Yourself": Lyrics in a rhythmically aggressive, introspective hip-hop style.)
+- What is it made of? (Example: Multi-syllabic rhymes, wordplay, emotional themes, syncopated phrasing.)
+- What is it constrained by? (Example: 8-bar structure, instrumental tempo, rhyme scheme, breath control.)
+- How its parts interconnected? (Example: Each line leads into the next through rhyme chaining and narrative progression, maintaining tension and thematic coherence.)
+
+The music, as an example, can be perceived, and felt, without explicitly analyzing it by the above questions, but the perception of it still relies on a perceptual differentiation, lending the ability to recognize structure and categorize it as meaningful. The perceiver may not ask the above questions explicitly, but will sense it anyhow, even if to different degrees and in different orders:
+
+- What is this thing? (Example: "Ah, I love this")
+- What is it made of? (Example: "Are you serious? the beat, the lyrics, the flow!")
+- What is it constrained by? (Example: "I love the way he plays with the words, and the beat is so smooth!")
+- How its parts interconnected? (Example: "The way the rythm matches the narration makes makes the overall soundscape tell the story, not just the words, is just brilliant!")
+
+Person A: "Why is the track so good?"
+Person B: "Seriously! Just listen!"
+
+What happens in that dialogue is that person B recognizes the song to be meaningful, but without articulating why. This must be based in perception and differentiation, or person B would not be able to differentiate it from static noise or from an ninspiring track. In the case of the Eminem track, person B knows that something different is happening in the song, because it is relying on the 8-bar technique etc, but person A may not have a way to describe why it is different from other musical tracks. At this stage person B has a non-explicit conceptual model:
+
+- What is this thing? (Example: "Play that track again" <- there is a sense of a distinct concept being comunicated by the arrangment of all the parts of the track)
+- What is it made of? (Example: "Rythmically nodding with the music and singing along momentarily" <- different parts are recognized, or there wouldnt be any aligned reaction)
+- What is it constrained by? (Example: "Thinks of the music as a certain genre" <- recoznises the music stays within its genre, and expects it to stay within that genre)
+- How its parts interconnected? (Example: "Gets shiverings" <- different parts connect and creates the recognition of something beyond the parts themselves)
+
+The spontanious analysis as shown in the example above, is made into a systematic analysis by applying _structure of conceptual models_, for the purpose of exhausting perceptual clarity. Whereas _structure of conceptual models_ is a way to bulid a conceptual model of anything (a song, an activity, a mental state, an object etc...), any form of analysis of sensory impressions, be it systematic or spontaneous, is always done within any of the stipulated categories. Rather than having a mere sense that one's understanding of a thing is beneficial, or having a sense it simply doesn't need to be questioned, it is actually the level of intricacy and accuracy in analysis that determines how useful one's _conceputal model_ is in producing a beneficial outcome.
+
+The ability of recognizing the general structure of any concept and with rigor analyze it, for complete comprehension, lends exhausting perceptual clarity. Perception's movement across the categories stipulated by _structure of conceptual models_ is a natural movement of the necessary attempt of understanding how to interpret sensory input to nagivate for the right corresponding consequences, in a world where the wrong consequence are undesired.
+
+Perception is here seen as not just the sensory input, but
+
+---
 
 Reading: The _structure of things_ can be applied in analyzing anything to describe it with exhausting perceptual clarity. Thus, the analytical process of applying _structure of things_ is applied to describe itself. This very scentence is read right now by a perceiver, who is applying the _structure of things_ to discern what a _structure of things_ is. Right now, as this is being read word by word, the analyzis is enacted by the structural category of _identity_, right now, being isolated and brought to perception as a part of the _thing_ which in this case is _structure of things_. The _structure of things_ contains in itself the means to construct itself, in relation to a perceiver. There is nothing outside _structure of things_ that describes and justifies it.
 
@@ -109,6 +146,12 @@ Because all things intrinsically have the self-evident structure of _structure o
 (The _structure of things_ postulates a set of properties: identity, constitution, constraint, emergence.)
 
 ## Constitution
+
+A _structure of things_, meaning the general pattern of all _conceptual models_, consists of the perceiver (the reader of this text), for without it, there is no enacting of perceptual differentiation to perceptually constrain and identify the _conceptual model_ in acordance with the _structure of things_.
+
+Because _structure of things_ describes the general pattern of all _conceptual models_, the perceiver is part of all _conceptual models_ being described. The percevier should not believe there is a _conceptual model_ somewhere external to the perceiver, that exists independently, that several people tap in to. It is that the specific perceiver is part of every _conceptual model_ it perceives, and thus comes to form the model itself, based in the perceivers characteristics and not in other characteristics independent of the perceiver.
+
+Thus, while this same description is the same to two different perceivers, when they both read it, and enact the description by applying it, analyzing something by it, and building a _conceptual model_, then, each in their own case, is part of influencing the perception
 
 ### Thing
 
@@ -131,6 +174,15 @@ Because a perceiver describes itslef in terms of the _structure of things_, it a
 A _structure of things_, or any thing, **does not** consists of a _structure of things_. Even if it has the same categories identified by it (identity, constitution etc...). It is because the categories emerges as self-evident from the process of differentiating perception which all objects are constituted of. Any object thus have all it need to self-organize these categories, and this self-organizing is exactly what _structure of things_ describe. Thus, _structure of things_ does not stipulate a set of categories, it merely show how these, and exactly these, inveitabely emerges in any object.
 
 ## Constraint
+
+### Ontological truth
+
+The _thing_ must be an _ontological truth_, meaning:
+
+- It defines a base unit.
+- The base unit must apply equally to all possible subjects.
+- within the ontological system.
+- All parts of the affects the whole. (The specific _units_ of constitution, constraint and emergence affects the _identity_)
 
 ### Perception
 
