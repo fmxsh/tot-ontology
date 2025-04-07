@@ -9,6 +9,10 @@ a post-metaphysical ontology that grounds structure in function and perception, 
 
 # Structure of Conceptual Models
 
+TODO: Clarify self-evident is pragmatic, not absolutely...
+TODO: Clarify the 'real'
+TODO: A model must have these categories... can be taken as absolute claim...
+
 ## Identity
 
 ### The thing
