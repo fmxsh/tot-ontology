@@ -109,6 +109,16 @@ These categories are emergent properties of the _structure of conceptual models_
 
 #### Identity
 
+New: Any semantic attribution is defined here in _identity_ if we are doing conceptual definitions separated from semantic attribution. In all other categories, we work with concepts. In the category _identity_, all concepts are done and _idenity_ concludes the conceptual models's identity. Thus, having all concepts outlined, it is fit to semantically attribute them to things of the real which stands apart from the conceptual domain. For example, stating that the concept `checked` is semantically attributed to the character sequence `(x)`. Semantic attribution falls under _identity_ because the conceptual model's real counterpart is part of the identity, as that counterpart is actually the complete description and expression of that which the conceptual model tries to outline.
+
+_Identity_ is the emergent, conclusive definition, the totality, that arises from the constitution, constraint, and emergence of a thing. Once all its generative structure is outlined, the identity is what the thing _is_, and thus becomes the anchor for referring to it.
+
+The many things that map to representational medium (reality, characters in a computer etc), are viewed as identities... That is, they are sub-identeties of the identity of the _conceptual model_. So the _identity_ `checked` maps to `(x)`, to illustrate with the previous example.
+
+_Identity_ is also the public interface while _constitution_, _constraint_ and _emergence_ constitutes the private interface, to use terms of programming languages where a class has a public interface of functions and internal private ones used only by itself or by other parts in the same chain of inheritance.
+
+---
+
 The combination of the content of _constitution_, _constraint_ and _emergence_ (defined below) leads the emergence of a category _identity_. This category emerges naturally merely by constitution, constraint, and emergence all being present and related. Identity is the object as it is in its completeness, with all the parts of the prior categories. This category simply reflects the totality of the _conceptual model_ and, unlike the other three categories, does not contribute something new. It concludes what the conceptual model is. It is the declarative category that, based in the other three generative categories, declares conclusively what the specific _conceptual model_ is. This category is influenced by perceptual differentiation, in that the perceiver is able to perceive the conceptual model as a whole as a distinct unit. This category, and consequently the other three that base it, are subject to the perceivers self-interest. The perceiver, in prioritizing things believed to be useful, will seek to construct a _conceptual model_ that responds to what the perceiver sees as useful. Thus, the mental engagement to come to understand a certain _conceptual model_ is influenced by the interest of the perceiver. The author of this document, for example, finds it potentially more useful at this moment to create this _conceptual model_ that is a model of the general pattern of all possible models, rather than conceptualizing bird sounds. The authors exploration in quest of something useful, is also part of it, because not everything is planned from the start, but step by step, work on this very _conceptual model_ called _structure of conceptual models_ by inventing, evaluating, selecting and discarding its parts. Some conceptual models are intuitively understood by interaction with the world and need no explicit clarity, while other conceptual models are the result of rigorous thinking and rely on explicit language to convey something to complex to spontaneously understand deeply by moment to moment intuition.
 
 Identity is the expression of a _thing_ in its completeness. The _thing_ itself, is an expression of itself in completeness. In the _structure of conceptual models_, the _thing_ is analyzed by the way of the analytical fundamental structure, which is the _structure of conceptual models_. By the mentioned analysis, the identity of an object can be described as a conclusion of its constitution, constraints, and emergence, such that a perceiver has enough structur to perception to be able to recognize the thing itself as occuring in perception. This is very easy to prove. The perceiver of this text will have enough structured perception to perceive the _thingness_ of the following (which was an example explained earlier): `1f 8b 08 00 00 00 00 00 00 03`. The perceiver can only perceive this as meaningful if the _thingness_ of it has first been analyzed and known in some way. If analyzed by applying _structure of conceptual models_, the perceiver will have exhausting perceptual clarity in perceiving it. A poor analysis will yield a perception of it as thing such as "it's probably a header of some sort" and such understanding is arrived at by analyzing it against a set of prior experiences, fragments of knowledge and inference. What thing is perceived in this case, meaning, what thing comes into meaningful existence for the perceiver, depends on the perceivers values directing attention to either analyze this thing to know it, or to not do it. The knowing of things, and the degree of clarity, comes to determine the course of a perceivers experiences, where the perceiver naturally has interest in certain experiences. Knowing of certain things is required for certain jobs. Knowing of edible plants is crucial in a certain survival situation.
@@ -178,6 +188,36 @@ This category emerges in any conceptual model, because if a conceptual model con
 The trafic light example:
 
 - Connected to the trafic light network, and placed correctly, the trafic light unit will light up the appropriate color and display it in the direction of the trafic to be controlled.
+
+### Inheritance
+
+At the perceptual level, inheritance does not exist. There is no abstract substance called _structure of conceptual models_ that _conceptual models_ derive from. Every individual _conceptual model_ simply just contain the same general structure. Each conceptual model (and especially the sensory reality the model may refer to) stands on its own, without any inheritance. The general pattern of _structure of conceptual models_ naturally emerge in all conceptual models being formed, not as a result of an existing abstract force that would be inherited from, but from the human's way of cognitively relating to sensory input for the purpose of understanding what is useful for the necessity of navigating the world of consequences. **However**, at the level of conceptual modeling, we can easily extend our conceptual modeling capability by apply inheritance. This opens another dimension of _structure of conceptual models_ where the structure instead act as modeling tool to analyze a set of concepts and their relations, meaning how one concept inherits features of another. To do this, this ontology states that _structure of conceptual models_ is the parent of all conceptual models. _Structure of conceptual models_ is self-declared in every _conceptual model_.
+
+What allows for inheritance is surprisingly not a new feature of _structure of conceptual models_, but instead applying that very same concept, to form a conceptual model that simply contains inheritance. Remember, _structure of conceptual models_ **is the general structure of all conceptual models**. So:
+
+Object A
+...
+Object B
+Constitutes: Object A
+Constraints: Adopts all features of Object A, can override and modify them.
+Emergence: Object B is a more specific version of Object A, with all the features of Object A, but with some modifications.
+
+Object X
+...
+
+Object C
+Constitutes: Object B, Object X
+Constraints: Adopts all features of Object B and Object X, ...
+
+Single and multiple inheritance is possible. Anything is possible. It depends on how we define the _conceptual model_ doing the inheritance.
+
+The capacity of inheritance is **not specifically** integral to the _structure of conceptual models_, but is completely possible due to the fact that _structure of conceptual models_ is a general generative and declarative structure, capable of generating emergent behaviour of inheritance and declare such as part of the focal object's _identity_. Thus our inheritance never needs to go down at the level of fundamental perception and argue its existence there (in fact, it can not exist there, as no concept is bound to another, but are only bound as far as the perceiver models the concept to be so).
+Thus:
+
+- Perceptual level – where each conceptual model is self-contained, emergent from differentiated perception, and not “inherited” from anything.
+- Modeling level – where inheritance is a declared modeling strategy, not an ontological structure of reality.
+
+Note: a chain of inheritance is not really a chain of several objects, it is one single _conceptual model_ having all its inherited objects inside itself as part of its constitution, and defining the constraints of how to derive properties from those. Only when viewing the modeling, with several objects outlined on a drawing board, does it look like they are many. Wherever in the chain of inheritance on the drawing board the perceiver chooses to focus, that becomes a complete _conceptual model_ in its own right, the moment the perceiver understands exactly that part. The perceiver always reframes whatever is focused on, as a complete _conceptual model_, and if it is experienced its a unfinished model, then the perceiver simply frames it as the complete _conceptual model_ of _unfinished conceptual model_ (but likely never states that explicitly, as in modeling, the goal is to arrive at perceived completeness, which by the way continues to be improved on and adapted). The perceiver never perceives a whole chain of parts, but moves reframes whatever is focused on into a complete _conceptual model_. So if looking at the topmost one, which is the _structure of conceptual models_, then the perceiver simply perceives the complete _conceptual model_ of that, excluding any other parts that are outlined on the drawing table to derive from it. If the perceiver is in fact looking at the table with all its parts, then the conceptual model becomes simply _drawing table with many parts outlining conceptual modelling relations_.
 
 ### Uniqueness
 
