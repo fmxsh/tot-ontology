@@ -294,3 +294,34 @@ Because of differentiated perception being the constraint of any thing:
 - A thing is a particular thing, it is not another thing.
 - A things existence is contingent on perception. If a thing is not perceived, it is not a thing. If a thing is perceived, it is a thing.
 - A thing must have an identity.
+
+## /meta/
+
+In short: The _meta_ category is not part of the conceptual model — it is a scaffold for perceiving it clearly.
+
+No attempts are made to make it ontologicaly integral to the core model of _structure of conceptual models_, such that it is part of its constitution or emerges. Neither is it existing outside the ontological reality defined by _structure of conceptual models_. Remember,
+
+- there is no conceptual model outside this ontology,
+- the active cognitive process of interpreting sensory input, for the necessary purpose of meaning-making, reflects the _structure of conceptual models_,
+- there is no meaningful interaction with sensory input (the presumed _real_) without _conceptual models_, no matter how unconscious those models are.
+
+Thus, the _meta_ category can not somehow exist outside the ontological reality of _structure of conceptual models_.
+
+The _meta_ category is not part of the conceptual model, but it must exist on the same terms as any other conceptual model. It is not ontologicaly integral to the core structure of all conceptual models, but it is ontologically real in the sense the _meta_ category is perceived **by** the same process of analytical application of _structure of conceptual models_, regardless of how unconscious that analytical process is. The rationalization is further clarified below.
+
+> [!NOTE]
+> A very intuition was first to actually make _meta_ integral to the core model, such that it somehow emerged. The assumption was that "all that is meaningful surely must originate directly in the core general structure", but that was not the case. The category _meta_ originates simply as sensory input being part of the many other things you need to understand you have a text-file in front of you describing a particular conceptual model and how that text and its meaning should be interpreted to understand the conceptual model the text aims to convey. At this point, it seems the _structure of conceptual models_ has reached a level of being solid and complete, thus, naturally, in its ontological minimalism, rejects the attempt of _meta_ to place itself at the core.
+
+### Definition
+
+The meta category is a pseudo-category that is not emergent of perceptual differentiation and the percievers activity of such. The meta category is purely for sake of conceptual modeling, in that, when _structure of conceptual models_ is applied to model a concept by analyzing sensory input and writing the conceptual model in a text-file, the _meta_ category adds what is needed to help model the concept. It can be for example a table of contents, or a definition of syntax used to describe parts that makes up the conceptual model. The _meta_ category consists of things that are of use for understanding the conceptual model, and not part of the conceptual model itself. The _meta_ category supplies what is helpful for rendering the conceptual model in the perceiver's understanding.
+
+### Content
+
+The content of the _meta_ category is not part of the conceptual model itself, and can thus be placed anywhere. Here it has been placed at the end, but it can as well be at the beginning, to contain a table of contents. You can have none, one, or many `## /meta/`. They are level two headings by default, but can be any other heading, or any other format, as long as it appears as a title for a section. The _meta_ category is always titled `/meta/`. They can contain anything after meta marker. Example: `/meta/ Additional context`. The forward slash (`/`) is used to separate it from the conceptual model's possible own use of the word `meta`. The word `meta` is case sensitive and `/MeTa/` is considered the same.
+
+The _meta_ category can also be used to hold appendix. Template metadata (versioning, authorship, etc.), change log, todo, footnotes etc.
+
+### Ontological rationalization
+
+Rationalization of the meta category: to ontologicly explain the meta category, **the very text itself** describing a _conceptual model_ **undergoes the same spontaneous perceptual differentiation** that humans innately preform when understanding anything. The text-description appears to the human as sensory input. It is already conceptualized as a "file" on a "computer" with a familiar language. Then the content is conceptualized as a textfile in the format of _structure of conceptual models_ with _meta_ category. Thus, the human has a higher level conceptual model, built spontaneously by the mind, whereby he or she knows to separate the _meta_ category from the conceptual model being described, and knows to use the content of the _meta_ category to understand and conceptually modell the specific _conceptual model_ that the file describes. The perceiver interacts with the _meta_ category to understand the conceptual model. In a sense, the _meta_ category is no different from any other tool used to help understand the conceptual model, for example a text-magnifying tool in the text editor to help reading ability, or another example would be color theme for eye comfort. The meta category can for example contain a table of contents. However, the category can also contain such things that are more integrated with the description of the model itself: things like an invented syntax used specifically to describe the conceptual model. The _meta_ category is instrumental in understanding the _conceptual model_ in question.
