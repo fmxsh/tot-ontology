@@ -295,7 +295,7 @@ Because of differentiated perception being the constraint of any thing:
 - A things existence is contingent on perception. If a thing is not perceived, it is not a thing. If a thing is perceived, it is a thing.
 - A thing must have an identity.
 
-## /meta/
+## Meta
 
 In short: The _meta_ category is not part of the conceptual model — it is a scaffold for perceiving it clearly.
 
@@ -316,11 +316,15 @@ The _meta_ category is not part of the conceptual model, but it must exist on th
 
 The meta category is a pseudo-category that is not emergent of perceptual differentiation and the percievers activity of such. The meta category is purely for sake of conceptual modeling, in that, when _structure of conceptual models_ is applied to model a concept by analyzing sensory input and writing the conceptual model in a text-file, the _meta_ category adds what is needed to help model the concept. It can be for example a table of contents, or a definition of syntax used to describe parts that makes up the conceptual model. The _meta_ category consists of things that are of use for understanding the conceptual model, and not part of the conceptual model itself. The _meta_ category supplies what is helpful for rendering the conceptual model in the perceiver's understanding.
 
-### Content
+### Placement and content
 
-The content of the _meta_ category is not part of the conceptual model itself, and can thus be placed anywhere. Here it has been placed at the end, but it can as well be at the beginning, to contain a table of contents. You can have none, one, or many `## /meta/`. They are level two headings by default, but can be any other heading, or any other format, as long as it appears as a title for a section. The _meta_ category is always titled `/meta/`. They can contain anything after meta marker. Example: `/meta/ Additional context`. The forward slash (`/`) is used to separate it from the conceptual model's possible own use of the word `meta`. The word `meta` is case sensitive and `/MeTa/` is considered the same.
+The _meta_ category is marked as such in any way deemed suitable to distinguish it from the non-meta content. It is suggested to simply create a level two heading titled "Meta" and for example place it at the beginning. However, it can be placed anywhere deemed suitable in the way deemed suitable.
+
+It can hold for example table of contents, syntax definition needed to understand the conceptual model, etc.
 
 The _meta_ category can also be used to hold appendix. Template metadata (versioning, authorship, etc.), change log, todo, footnotes etc.
+
+The meta information can be included in other ways to if no explicit meta category is used, just as any category can be renamed and still keep the essence of the _structure of conceptual models_. Different use cases may prefer different "resolution" of the formal structure, or different levels of explicit expression of it.
 
 ### Ontological rationalization
 
